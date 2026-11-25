@@ -1,0 +1,5 @@
+"Model","RMSE","MAE","R2","MAPE_pct"
+"Log-Transformed Linear Regression",0.46,0.3028,0.9585,6.43
+"Multiple Linear Regression",0.7258,0.523,0.8966,12.85
+"Stepwise Linear Regression (AIC)",0.726,0.5284,0.8966,13
+"Decision Tree (rpart)",1.241,0.9478,0.6977,21.34
